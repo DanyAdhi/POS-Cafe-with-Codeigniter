@@ -1,8 +1,7 @@
 # Point Of Sale With Codeigniter
 
 ## Introduction
-[![Codeigniter](https://img.shields.io/badge/Codeigniter-3.0-red.svg)](https://www.codeigniter.com/)
-
+[![Redux](https://img.shields.io/badge/Redux-v.4.0.1-blue.svg?style=rounded-square)](https://redux.js.org/)
 This is the Simple Notes frontend that is created using react native and the redux library for state management, this Simple Notes frontend can run with the help of the API that I have previously created <a href="https://github.com/DanyAdhi/Simple-Notes-RestAPI-with-NodeJs">here!</a>, You can download this application in the form of apk on [here](https://drive.google.com/file/d/1gIPo4qfGxpSNuktQFPNM-U77eiMLATUN/view?usp=sharing)
 
 ## Requirements
