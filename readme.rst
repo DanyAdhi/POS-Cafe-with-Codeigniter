@@ -1,63 +1,36 @@
-###################
-POS Cafe With Codeigniter
-###################
+# Point Of Sale With Codeigniter
 
-The point of sale (POS) is the time and place where a retail transaction is completed. At the point of sale, the merchant calculates the amount owed by the customer, indicates that amount, may prepare an invoice for the customer (which may be a cash register printout).[`Wikipedia`](https://en.wikipedia.org/wiki/Point_of_sale)  
-*******************
-Release Information
-*******************
+## Introduction
+[![Codeigniter](https://img.shields.io/badge/Codeigniter-3.0-red.svg)](https://www.codeigniter.com/)
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+This is the Simple Notes frontend that is created using react native and the redux library for state management, this Simple Notes frontend can run with the help of the API that I have previously created <a href="https://github.com/DanyAdhi/Simple-Notes-RestAPI-with-NodeJs">here!</a>, You can download this application in the form of apk on [here](https://drive.google.com/file/d/1gIPo4qfGxpSNuktQFPNM-U77eiMLATUN/view?usp=sharing)
 
-**************************
-Changelog and New Features
-**************************
+## Requirements
+1. Npm (node package manager)
+2. React-native-cli for Windows-Android (from npm)
+3. My Rest API Download or Clone on Download/clone on <a href="https://github.com/DanyAdhi/Simple-Notes-RestAPI-with-NodeJs">here!</a>
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+## How To Install
+1. Make sure you have downloaded or clone the backend first <a href="https://github.com/DanyAdhi/Simple-Notes-RestAPI-with-NodeJs">here!</a>
+2. Run the backend first.
+3. connect your cellphone to the pc or laptop that you will use using a USB cable.
+4. Open this application directory using cmd.
+5. Write "react-native run-android", then press enter.
+6. Wait for the process to complete, then the simple notes application will be installed and open on your mobile
 
-*******************
-Server Requirements
-*******************
+## Preview Video for This App
+See this application demo <a href="https://drive.google.com/file/d/17F2KsH-9yyBlafSCDZkub6x3Oy_SteXY/view?usp=sharing">here!</a>
 
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+## Screenshot
+<p align='center'>
+  <span>
+  <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/home.png' width=200 />
+  <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/search.png' width=200 />
+  <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/create.png' width=200 />
+  <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/edit.png' width=200 />
+  <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/sidebar.png' width=200 />
+    <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/personal.png' width=200 />
+    <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/learn.png' width=200 />
+    <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/work.png' width=200 />
+  </span>
+</p>
