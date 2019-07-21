@@ -1,9 +1,8 @@
 ###################
-What is CodeIgniter
+POS Cafe With Codeigniter
 ###################
 
-Point Of Sale (POS),   Sebuah sistem yang digunakan untuk melakukan pencatatan transaksi. Modul dalam sistem ini meliputi, managemen data menu makanan dan minuman, gallery foto, transaksi, dan laporan penjualan.
-
+The point of sale (POS) is the time and place where a retail transaction is completed. At the point of sale, the merchant calculates the amount owed by the customer, indicates that amount, may prepare an invoice for the customer (which may be a cash register printout).[`Wikipedia`](https://en.wikipedia.org/wiki/Point_of_sale)  
 *******************
 Release Information
 *******************
