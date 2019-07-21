@@ -34,13 +34,14 @@ available features on this repository:
 ## Screenshot
 <p align='Left' valign='top'>
   <span>
-		<img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/user11.jpg'  width=200 />
-		<img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/user12.jpg'  width=200 />
-		<img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/user21.jpg'  width=200 />
-		<img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/user3.jpg'  width=200 />
-		<img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/user4.png'  width=200 />
-		<img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/admin1.png'  width=200 />
-		<img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/admin2.png'  width=200 />
-		<img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/admin3.png'  width=200 />
+		<img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/user11.jpg'  width=300 />
+		<img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/user12.jpg'  width=300 />
+		<img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/user2.jpg'  width=300 />
+	  <img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/user21.jpg'  width=300 />
+		<img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/user3.jpg'  width=300 />
+		<img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/user4.png'  width=300 />
+		<img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/admin1.png'  width=300 />
+		<img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/admin2.png'  width=300 />
+		<img src='https://github.com/DanyAdhi/POS-Cafe-with-Codeigniter/blob/master/ScreenShot/admin3.png'  width=300 />
   </span>
 </p>
