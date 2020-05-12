@@ -126,7 +126,7 @@
                 for(var i=0; i<data.length; i++){
                   baris +='<tr>'+
                         '<td align="center" width="200px">'+
-                        '<img src="http://localhost/codeigniter/cafe/assets/upload/gallery/'+data[i].name_picture+'" width="150px">'
+                        `<img src="<?=base_url('assets/upload/gallery/')?>${data[i].name_picture}" width="150px">`
                         +'</td>'+
                         '<td>'+data[i].size_picture+' MB</td>'+
                         '<td>'+data[i].date_upload+'</td>'+

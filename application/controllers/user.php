@@ -15,9 +15,7 @@ class User extends CI_Controller {
 
 	public function index()
 	{
-		$data 	= array(
-						'content' => $this->folder.'home'
-						);
+		$data 	= [ 'content' => $this->folder.'home'];
 		$this->load->view('user/template', $data);
 	}
 

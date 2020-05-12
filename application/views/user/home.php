@@ -172,7 +172,7 @@
           <div class="row">
             <div class="col">
               <div class="text-center founder">
-                Founder
+                Owner
               </div>
               <div class="text-center font-italic">
                 "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod<br>
