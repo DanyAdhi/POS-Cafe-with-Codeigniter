@@ -50,4 +50,4 @@ available features on this repository:
 <br />
 
 ## Contact
-danyadhi4149@gmail.com
+https://danyadhi.github.io/
